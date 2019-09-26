@@ -6,7 +6,7 @@ Converts files from different formats to other formats. all the formats are load
 
 ##HOW TO USE FileConverter
 
-#Please read and understand these documentation to use FileConverter successfully.
+Please read and understand these documentation to use FileConverter successfully.
 
  1. Download the application from this link https://github.com/istimons/FileConverter
     click on CLONE DOWNLOAD and save the file.
