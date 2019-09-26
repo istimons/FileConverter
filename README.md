@@ -1,8 +1,9 @@
 # FileConverter
+##### Converts files from different formats to other formats. all the formats are loaded on the app.
+
 #### Latest version 1.0
 ##### Requirements
 ##### 1. Pandoc.Download & Install Pandoc from https://pandoc.org/installing.html
-Converts files from different formats to other formats. all the formats are loaded on the app.
 
 ##HOW TO USE FileConverter
 
