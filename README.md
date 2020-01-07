@@ -7,7 +7,7 @@
 
 Please read and understand these documentation to use FileConverter successfully.
 
- 1. Download the application from this link https://github.com/istimons/FileConverter
+ 1. Download the application from this link https://softcrunch83113217.wordpress.com/ or on this repo
     click on CLONE DOWNLOAD and save the file.
     
  2. Navigate to the file after download is complete and extract it.
